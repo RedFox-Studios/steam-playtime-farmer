@@ -1,0 +1,6 @@
+{
+    "ACCOUNT_NAME": "your_account_name",
+    "PASSWORD": "your_password",
+    "SHARED_SECRET": "your_shared_secret",
+    "GAMES": ["game_id_1", "game_id_2"]
+}
