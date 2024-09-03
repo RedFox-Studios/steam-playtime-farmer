@@ -49,22 +49,6 @@ Steam Playtime Farmer is a Python application that simulates playing multiple ga
 - `SHARED_SECRET`: Your 2FA shared secret (optional, but required if 2FA is enabled).
 - `GAMES`: A list of game IDs to farm.
 
-## File Structure
-
-steam-playtime-farmer/
-│
-├── farmer/
-│   ├── __init__.py              Marks the farmer directory as a package
-│   ├── steam_login.py           Handles Steam login and session management
-│   ├── game_manager.py          Manages game farming logic
-│   └── utils.py                 Helper functions, e.g., checking if user is playing a game
-│
-├── config.json                  Configuration file for user credentials and settings
-├── main.py                      Main script to run the application
-├── requirements.txt             Lists the required Python libraries
-└── README.md                    Documentation for the project
-
-
 ## License
 
 This project is licensed under the MIT License.
