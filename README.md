@@ -15,7 +15,7 @@ Steam Playtime Farmer is a Python application that simulates playing multiple ga
 1. **Clone the repository:**
 
     ```bash
-    git clone https://github.com/yourusername/steam-playtime-farmer.git
+    git clone https://github.com/pilot2254/steam-playtime-farmer.git
     cd steam-playtime-farmer
     ```
 
